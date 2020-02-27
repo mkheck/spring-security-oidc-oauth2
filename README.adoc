@@ -17,4 +17,4 @@ This meta-repo accompanies my session titled "How to Supercharge AppSec with Spr
 
 == Related presentation
 
-https://speakerdeck.com/mkheck/how-to-supercharge-appsec-with-spring-security-openid-connect-oauth2["How to Supercharge AppSec with Spring Security, OpenID Connect, & OAuth2" presentation]
+https://speakerdeck.com/mkheck/how-to-supercharge-appsec-with-spring-security-openid-connect-and-oauth2["How to Supercharge AppSec with Spring Security, OpenID Connect, & OAuth2" presentation]
