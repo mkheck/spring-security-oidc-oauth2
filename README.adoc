@@ -1,0 +1,20 @@
+= How to Supercharge AppSec with Spring Security, OpenID Connect, & OAuth2
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.org[mark@thehecklers.org]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This meta-repo accompanies my session titled "How to Supercharge AppSec with Spring Security, OpenID Connect, & OAuth2" and points to repos containing code written within the session.
+
+== Individual repositories
+
+* https://github.com/mkheck/sc-ssec-oidc[Project repo for login service using OpenID Connect for authentication/OAuth2 for authorization]
+* https://github.com/mkheck/sc-ssec-res-svr[Project repo for resource server leveraging bearer tokens/JSON Web Tokens (JWT)]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/how-to-supercharge-appsec-with-spring-security-openid-connect-oauth2["How to Supercharge AppSec with Spring Security, OpenID Connect, & OAuth2" presentation]
